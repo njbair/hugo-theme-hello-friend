@@ -4,7 +4,10 @@ date: 2021-10-17T22:26:03-04:00
 author: 'Nick Bair'
 cover: veterans-park.jpg
 useRelativeCover: true
-tags: []
+tags:
+  - nature
+categories:
+  - Photos
 keywords: []
 description: ''
 draft: false

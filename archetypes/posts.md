@@ -5,6 +5,7 @@ author: ''
 cover: ''
 useRelativeCover: true
 tags: []
+categories: []
 keywords: []
 description: ''
 draft: true

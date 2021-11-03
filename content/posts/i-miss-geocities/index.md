@@ -7,6 +7,7 @@ useRelativeCover: true
 tags:
   - nostalgia
   - internet history
+categories: []
 keywords: []
 description: 'Remember GeoCities? I miss that place.'
 draft: false

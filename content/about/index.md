@@ -7,7 +7,7 @@ This is the millionth iteration of nickbair.net since 2003.
 
 ## Who Am I?
 
-{{< image src="/images/nick-abby.jpg" alt="Me & Abby" position="left"
+{{< image src="nick-abby.jpg" alt="Me & Abby" position="left"
 style="border-radius: 2em; width: 24em;" >}}
 
 I'm a full-time I.T. professional, network engineer and software developer. I
