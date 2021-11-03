@@ -1,5 +1,7 @@
 # Hello Friend
 
+This is my fork of the wonderful Hello Friend Hugo theme.
+
 ![Hello Friend](https://github.com/panr/hugo-theme-hello-friend/blob/master/images/screenshot.png?raw=true)
 
 ### DEMO - https://hugo-hello-friend.now.sh/ <a id="demo" />
