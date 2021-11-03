@@ -1,4 +1,2 @@
-.DS_Store
-/public/
-/resources/_gen/
-/themes/hello-friend2/
+node_modules
+public
